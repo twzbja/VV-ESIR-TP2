@@ -6,3 +6,11 @@ You can use the default [rule base](https://github.com/pmd/pmd/blob/master/pmd-j
 
 ## Answer
 
+En nous servant d ela ligne d'instruction suivante : 
+ pmd.bat check -f text -R rulesets/java/quickstart.xml -d [chemin-du-fichier-du-code-source]
+Nous exécutons PMD, sur les différents projets java en nous utilisant les différentes rulests .
+
+1- Apache Commons Collections :
+
+
+
