@@ -70,6 +70,7 @@ class StockManager {
 
         System.out.println("Le stock pour le produit " + produit + " a été approvisionné avec succès.");
     }
+}//
 
 
 
