@@ -1,3 +1,0 @@
-ok
-	 Package : fr.istic.vv
-	 Classe : PublicElementsPrinter
